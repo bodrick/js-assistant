@@ -10,7 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "minimatch": "5.0.1"
+    "minimatch": "5.1.6"
   },
   "devDependencies": {}
 }
