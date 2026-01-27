@@ -31,6 +31,9 @@
     "typescript": "4.9.3"
   },
   "dependencies": {
-    "lodash": "^4.17.23"
+    "lodash": "^4.17.21"
+  },
+  "scripts": {
+    "test": "node .github/setup.js"
   }
 }
